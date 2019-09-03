@@ -1,3 +1,7 @@
+# This repository is archived.
+
+The project is taken over by @amondot on [amondot/contrast-homogenizer](https://github.com/amondot/contrast-homogenizer).
+
 # About
 
 Contrast Homogenizer allows to apply the contrast stretching of the current layer to all visible layers in QGIS. Likely to be useful when you open several adjacent images as QGIS enhances the contrast of each image independently based on their histogram. So the rendering is not homogeneous. This plugin allows to have this homogeneity on display.
